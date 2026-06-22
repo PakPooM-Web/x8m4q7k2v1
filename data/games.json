@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Counter Strike 2",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+    "username": "steam_user_01",
+    "password": "password_01"
+  },
+  {
+    "title": "Dota 2",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
+    "username": "dota_user",
+    "password": "dota_pass"
+  },
+  {
+    "title": "PUBG",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
+    "username": "pubg_user",
+    "password": "pubg_pass",
+    "steamGuard": true,
+    "guardText": "เกมนี้มี Steam Guard",
+    "guardLink": "steam-guard.html"
+  }
+]
