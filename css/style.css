@@ -168,6 +168,23 @@ font-weight:bold;
     display:block;
 }
 
+.back{
+    display:block;
+    max-width:250px;
+    margin:30px auto 0;
+    padding:14px;
+    text-align:center;
+    border-radius:10px;
+    background:#66c0f4;
+    color:#000;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+.back:hover{
+    filter:brightness(1.1);
+}
+
 @keyframes pop{
 from{
 opacity:0;
